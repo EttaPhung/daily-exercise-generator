@@ -23,7 +23,7 @@ From the main page, you will select the number of sets of exercise you want to d
 
 Example of a randomly generated 5 exercise:
 
-![image](https://user-images.githubusercontent.com/99515145/205831126-ff43175b-8768-476a-8522-ee2857f790b5.png)
+![image](https://user-images.githubusercontent.com/99515145/205834717-a6b0794b-0135-418c-8814-2bdc1d072d28.png)
 
 ## Contributing
 Based off of [Codecademy Project: Training Days](https://www.codecademy.com/projects/practice/training-days) but I have changed it to exercises instead of marathon types of physical activity and I changed it from days into number of sets. Also added HTML and made it useable from outside the console.
