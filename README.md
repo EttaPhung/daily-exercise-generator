@@ -14,7 +14,7 @@
 Generate the exercise for today! In this, you will select the number of exercise set you want to do and it will generate the type of exercise and the number in the set of that exercise. Check it out [here!](https://ettaphung.github.io/daily-exercise-generator/)
 
 ## Technologies
-Made using Visual Studio Code, HTML, Bootstrap, and JavaScript. Based off of Codecademy's Training Days project but without the marathon and only about daily exercise!
+Made using Visual Studio Code, HTML, CSS, Bootstrap, and JavaScript, abd Google Fonts. Based off of Codecademy's Training Days project but without the marathon and only about daily exercise!
 
 ## Usage
 From the main page, you will select the number of sets of exercise you want to do (max is 10 as of right now) and it will generate randomly the number of selected exercise and a random number of sets from 10 to 25.
