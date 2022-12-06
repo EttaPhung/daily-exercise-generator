@@ -29,7 +29,7 @@ const exercise = () => {
 
 //random number for the set
 const reps = () => {
-    let reps = Math.ceil(Math.random() * 25);
+    let reps = (Math.floor(Math.random() * (25 - 10 + 1) + 10));
     return reps;
 };
 
