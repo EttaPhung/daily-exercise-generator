@@ -52,6 +52,7 @@ const result = (number) => {
         let task = exercise();
         let number = reps();
         let newExerciseHTML = document.createElement("p");
+        newExerciseHTML.setAttribute("class", "rounded-pill");
         newExerciseHTML.innerHTML = `A set of ${number} ${task}`;
         answer.appendChild(newExerciseHTML);
         console.log(number);
