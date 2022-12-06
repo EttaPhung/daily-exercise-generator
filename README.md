@@ -27,7 +27,7 @@ Example of a randomly generated 5 exercise:
 ![image](https://user-images.githubusercontent.com/99515145/205812925-f5a1a57b-6ff8-44b6-a4e9-3aadf5f10e48.png)
 
 ## Contributing
-Based off of a Codecademy Project but I have changed it to exercises instead of marathon types of physical activity and I changed it from days into number of sets. Also added HTML and made it useable from outside the console.
+Based off of a [Codecademy Project: Training Days](https://www.codecademy.com/projects/practice/training-days) but I have changed it to exercises instead of marathon types of physical activity and I changed it from days into number of sets. Also added HTML and made it useable from outside the console.
 
 ## Contact
 Need to speak with me about something? Find me on [LinkedIn](https://www.linkedin.com/in/ettaphung/).
