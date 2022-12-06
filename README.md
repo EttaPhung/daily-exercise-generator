@@ -19,7 +19,7 @@ Made using Visual Studio Code, HTML, Bootstrap, and JavaScript. Based off of Cod
 
 ## Usage
 From the main page, you will select the number of sets of exercise you want to do (max is 5 as of right now) and it will generate randomly the number of selected exercise and a random number of sets from 1 to 25.
-![image](https://user-images.githubusercontent.com/99515145/205812666-9da58c25-7d7d-4745-9aba-19b902c288c4.png)
+
 ![image](https://user-images.githubusercontent.com/99515145/205812839-99ef8157-1528-4947-af20-fd41cfeb6c50.png)
 
 Example of a randomly generated 5 exercise:
