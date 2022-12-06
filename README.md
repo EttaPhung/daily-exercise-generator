@@ -4,7 +4,6 @@
 
 - [Description](#description)
 - [Techologies](#technologies)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Contact Me](#contact)
@@ -20,11 +19,11 @@ Made using Visual Studio Code, HTML, Bootstrap, and JavaScript. Based off of Cod
 ## Usage
 From the main page, you will select the number of sets of exercise you want to do (max is 5 as of right now) and it will generate randomly the number of selected exercise and a random number of sets from 1 to 25.
 
-![image](https://user-images.githubusercontent.com/99515145/205812839-99ef8157-1528-4947-af20-fd41cfeb6c50.png)
+![image](https://user-images.githubusercontent.com/99515145/205830957-473d6cf6-f847-43e1-babd-56c6bf4048b5.png)
 
 Example of a randomly generated 5 exercise:
 
-![image](https://user-images.githubusercontent.com/99515145/205812925-f5a1a57b-6ff8-44b6-a4e9-3aadf5f10e48.png)
+![image](https://user-images.githubusercontent.com/99515145/205831126-ff43175b-8768-476a-8522-ee2857f790b5.png)
 
 ## Contributing
 Based off of [Codecademy Project: Training Days](https://www.codecademy.com/projects/practice/training-days) but I have changed it to exercises instead of marathon types of physical activity and I changed it from days into number of sets. Also added HTML and made it useable from outside the console.
